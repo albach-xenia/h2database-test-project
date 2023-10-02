@@ -1,0 +1,6 @@
+#FileLock
+#Mon Oct 02 12:52:29 YEKT 2023
+server=192.168.1.33\:50943
+hostName=192.168.1.33
+method=file
+id=18aef5fd4714023f04f872800557784ab48af6be843
